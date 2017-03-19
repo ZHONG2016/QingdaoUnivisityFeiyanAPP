@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//res/values/attrs.xml=UTF-8
+encoding//src/com/dtr/zxing/activity/CaptureActivity.java=UTF-8
+encoding//src/com/dtr/zxing/activity/ResultActivity.java=UTF-8
+encoding//src/com/dtr/zxing/camera/CameraConfigurationManager.java=UTF-8
+encoding//src/com/dtr/zxing/decode/DecodeHandler.java=UTF-8
+encoding//src/com/example/feiyan_Home/HomeActivity.java=GBK
+encoding//src/com/example/feiyanbaiduAPI/Info.java=GBK
+encoding//src/com/example/feiyanbaiduAPI/MainActivity.java=GBK
+encoding//src/com/example/feiyanbaiduAPI/MyOrientationListener.java=GBK
+encoding//src/com/example/mediaplay=UTF-8
+encoding//src/com/example/mediaplay/MainActivity.java=UTF-8
+encoding//src/com/nfc/test/NfcTest01Activity.java=UTF-8
+encoding//src/com/nfc/test/ReadTag.java=UTF-8

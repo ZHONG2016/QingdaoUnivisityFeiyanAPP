@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">青大飞燕</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_youji">YoujiActivity</string>
+    <string name="no_nfc">Sorry~您的设备不支持NFC</string>
+    <string name="open_nfc">NFC功能没打开，请打开</string>
+    <string name="write_tag">写入标签</string>
+    <string name="read_tag">读出标签</string>
+    <string name="edit_hint">请输入您要写入标签的内容</string>
+    <string name="title_activity_nfc_test01">NfcTest01Activity</string>
+    <string name="title_activity_nfc_test02">NfcTest02Activity</string>
+    <string name="title_activity_lujing_choice">LujingChoiceActivity</string>
+    <string name="title_activity_travel1hour">Travel1hourActivity</string>
+
+</resources>

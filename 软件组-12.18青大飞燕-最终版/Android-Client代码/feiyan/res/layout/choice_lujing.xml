@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/feiyanyoulan"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_weight="3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+       
+    </LinearLayout>
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:layout_weight="1"
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:background="@drawable/round_button"
+             android:text="一小时游览路线"
+             android:textColor="#FFFFFF"
+              />
+
+        <Button
+            android:layout_weight="1"
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/round_button"
+             android:layout_marginLeft="3dp"
+             android:textColor="#FFFFFF"
+            android:text="两小时游览路线" />
+
+        <Button
+            android:layout_weight="1"
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="3dp"
+             android:background="@drawable/round_button"
+             android:textColor="#FFFFFF"
+            android:text="三小时游览路线" />
+        
+    </LinearLayout>
+
+    
+    
+</LinearLayout>
